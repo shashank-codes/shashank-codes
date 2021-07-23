@@ -1,6 +1,12 @@
 - 👋 Hi, I’m @shashank-codes
 - 👀 I’m interested in learning new tricks in Python and Java
 - 🌱 I’m currently relearning algorithms 
+- repositories to be added on this projects
+  - CyberArk API interaction
+  - Citrix Automation
+  - CDK code
+  - Flask API
+  - Java Algorithms
 
 
 <!---
